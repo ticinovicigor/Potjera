@@ -1,0 +1,7 @@
+C:\Users\igort\Documents\Potjera\potjera\bin\Debug\potjera.exe.config
+C:\Users\igort\Documents\Potjera\potjera\bin\Debug\potjera.exe
+C:\Users\igort\Documents\Potjera\potjera\bin\Debug\potjera.pdb
+C:\Users\igort\Documents\Potjera\potjera\obj\Debug\potjera.csproj.AssemblyReference.cache
+C:\Users\igort\Documents\Potjera\potjera\obj\Debug\potjera.csproj.CoreCompileInputs.cache
+C:\Users\igort\Documents\Potjera\potjera\obj\Debug\potjera.exe
+C:\Users\igort\Documents\Potjera\potjera\obj\Debug\potjera.pdb
